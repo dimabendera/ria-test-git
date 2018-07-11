@@ -1,1 +1,1 @@
-console.log(`log from second file`);
+console.log(`new log from second file`);
